@@ -1,11 +1,11 @@
 {
-  "name": "Kasir Lite",
+  "name": "Katalog HARINFOOD POS Lite",
   "short_name": "HARINFOOD POS",
   "description": "Katalog Interaktif & Pemesanan HARINFOOD POS Lite",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0f0c29",
-  "theme_color": "#13102f",
+  "theme_color": "#120F2E",
   "orientation": "portrait",
   "lang": "id",
   "scope": "./",
